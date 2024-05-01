@@ -23,7 +23,7 @@ const About = () => {
         </div>
 
         <h2 className={s.skills}>
-          Professional <b className={s.purple}>Skills</b>
+          Some of My <b className={s.purple}>Skills</b>
         </h2>
         <TechSkills />
 
