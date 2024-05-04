@@ -20,7 +20,9 @@ const data = [
     technologies: [
       '#react',
       '#react-navigation',
-      '#sentry',
+      '#react-router',
+      '#axios',
+      '#awesome'
     ],
   },
   {
@@ -39,10 +41,9 @@ const data = [
     technologies: [
       '#typescript',
       '#react-native',
-      '#mobx-keystone',
-      '#i18next',
-      '#firebase-analytics',
       '#google-maps',
+      '#React',
+      '#axios',
     ],
   },
   
@@ -50,11 +51,11 @@ const data = [
  
   {
     id: '8',
-    title: 'Shopping Cart',
+    title: 'E-commerce Clothing store',
     description:
-      'Simple eCommerce cart application built with React and TypeScript. Uses SWR hook to fetch the data from the API and Styled Components',
+      'A fully functional eCommerce store built with pure react with functionalities like, add to cart, search and fully Styled with Components',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/react-shop-cart/rn-shop-cart-lg_w3qxn6.jpg',
+      src: 'https://res.cloudinary.com/da2v8z4lz/image/upload/c_crop,g_auto,h_800,w_800/m6zgk9lzzddznkybcikn.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
@@ -64,11 +65,10 @@ const data = [
     },
     technologies: [
       '#react',
-      '#typescript',
+
       '#material-ui',
       '#styled-components',
-      '#swr',
-      '#fakestoreapi',
+  ,
     ],
   },
 ];
