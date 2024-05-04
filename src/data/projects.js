@@ -60,7 +60,7 @@ const data = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://shopping-cart-sv.netlify.app/',
+      site: 'https://sesuecommerce-cicate-team-18f8ee73.vercel.app/',
       repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
     },
     technologies: [
