@@ -53,7 +53,7 @@ const data = [
     id: '8',
     title: 'E-commerce Clothing store',
     description:
-      'A fully functional eCommerce store built with pure react with functionalities like, add to cart, search and fully Styled with Components',
+      '(not mobile optimized)A fully functional eCommerce store built with pure react with functionalities like, add to cart, search and fully Styled with Components',
     image: {
       src: 'https://res.cloudinary.com/da2v8z4lz/image/upload/c_crop,g_auto,h_800,w_800/m6zgk9lzzddznkybcikn.jpg',
       placeholderSrc:
