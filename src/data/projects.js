@@ -1,6 +1,4 @@
-import cicate from '../assets/IMG_7366.jpg'
-import cicate1 from '../assets/IMG_7367.jpg'
-import cicate2 from '../assets/IMG_7368.jpg'
+import gadget from '../assets/gadget.png'
 
 
 const data = [
@@ -46,7 +44,26 @@ const data = [
       '#axios',
     ],
   },
-  
+  {
+    id: '3',
+    title: 'Gadget store',
+    description:
+      'A one stop place for buying gadgets, built with a full sanity backend and react front end and fully optimised for mobile devices',
+    image: {
+      src: gadget,
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://e-commerce-svk6.vercel.app/',
+    },
+    technologies: [
+      '#typescript',
+      '#React',
+      '#Sanity',
+      '#axios',
+    ],
+  },
 
  
   {
