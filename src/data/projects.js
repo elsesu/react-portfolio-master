@@ -48,7 +48,7 @@ const data = [
     id: '3',
     title: 'Gadget store',
     description:
-      'A one stop place for buying gadgets, built with a full sanity backend and react front end and fully optimised for mobile devices',
+      'A one stop place for buying all gadgets, built with a full sanity backend and react front end and fully optimised for mobile devices',
     image: {
       src: gadget,
       placeholderSrc:
