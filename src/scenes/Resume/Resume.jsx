@@ -10,7 +10,7 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
-const resumeLink = 'https://github.com/elsesu/master/blob/main/Resume01.pdf';
+const resumeLink = 'https://github.com/elsesu/master/blob/main/Resumee1.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
