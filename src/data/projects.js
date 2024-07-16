@@ -62,12 +62,13 @@ const data = [
       '#React',
       '#Sanity',
       '#axios',
+      '#tailwind',
     ],
   },
 
  
   {
-    id: '8',
+    id: '4',
     title: 'E-commerce Clothing store',
     description:
       '(not mobile optimized)A fully functional eCommerce store built with pure react with functionalities like, add to cart, search and fully Styled with Components',
@@ -78,16 +79,44 @@ const data = [
     },
     links: {
       site: 'https://sesuecommerce-cicate-team-18f8ee73.vercel.app/',
-      repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
+      repo: '',
     },
     technologies: [
       '#react',
-
+      '#tailwind',
       '#material-ui',
       '#styled-components',
   ,
     ],
   },
+
+   
+  {
+    id: '5',
+    title: 'Tech Blog',
+    description:
+      'A tech blog built with nextJs using Typescript and Sanity Cms for handling content management',
+    image: {
+      src: 'https://res.cloudinary.com/da2v8z4lz/image/upload/t_new/ywrsqe2ymhkmnjq4u8np.jpg',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: ' https://blog-five-lac-74.vercel.app/',
+      repo: '',
+    },
+    technologies: [
+      '#Nextjs',
+      '#typescript',
+      '#sanity',
+      '#tailwind',
+      '#styled-components',
+  ,
+    ],
+  },
+
+
+ 
 ];
 
 export default data;
