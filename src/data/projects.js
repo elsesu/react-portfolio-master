@@ -95,7 +95,7 @@ const data = [
     id: '5',
     title: 'Tech Blog',
     description:
-      'A tech blog built with nextJs using Typescript and Sanity Cms for handling content management',
+      'A tech blog built with nextJs using Typescript and Sanity, Cms for handling content management',
     image: {
       src: 'https://res.cloudinary.com/da2v8z4lz/image/upload/t_new/ywrsqe2ymhkmnjq4u8np.jpg',
       placeholderSrc:
