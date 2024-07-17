@@ -69,7 +69,7 @@ const data = [
  
   {
     id: '4',
-    title: 'E-commerce Clothing store..',
+    title: 'E-commerce Clothing store',
     description:
       '(not mobile optimized)A fully functional eCommerce store built with pure react with functionalities like, add to cart, search and fully Styled with Components',
     image: {
