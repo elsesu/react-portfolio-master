@@ -1,4 +1,5 @@
 import gadget from '../assets/gadget.png'
+import trips from '../assets/trips3.png'
 
 
 const data = [
@@ -90,7 +91,7 @@ const data = [
     ],
   },
 
-   
+
   {
     id: '5',
     title: 'Tech Blog',
@@ -109,6 +110,29 @@ const data = [
       '#Nextjs',
       '#typescript',
       '#sanity',
+      '#tailwind',
+      '#styled-components',
+  ,
+    ],
+  },
+  {
+    id: '6',
+    title: 'Road Trip Planner',
+    description:
+      'A road trip planner built with Vuejs and Powered by VueX for state management and Leaflet Maps',
+    image: {
+      src: trips,
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: '  https://trip-planner-sigma-snowy.vercel.app/',
+      repo: '',
+    },
+    technologies: [
+      '#Vuejs',
+      '#Vuex',
+      '#Leaflet',
       '#tailwind',
       '#styled-components',
   ,

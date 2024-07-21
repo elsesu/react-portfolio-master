@@ -9,9 +9,9 @@ const AboutTextCard = () => {
         <span className={s.purple}>Sesugh Asa </span>
         from <span className={s.purple}> Abuja, Nigeria.</span>
         <br />
-        I am a Software engineer, my expertise include Web and Mobile development{' '}
+        I am a Full Stack Software engineer, my expertise include Web and Mobile development{' '}
         <br />
-        using React and React-Native.
+        using React, Nextjs, Vue, React-Native and Nodejs.
         <br />
         <br />
         I have a Bachelor's degree in Economics and
