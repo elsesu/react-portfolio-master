@@ -7,11 +7,10 @@ const AboutTextCard = () => {
       <p style={{ textAlign: 'justify' }}>
         Hello Folks, My Name is{' '}
         <span className={s.purple}>Sesugh Asa </span>
-        from <span className={s.purple}> Abuja, Nigeria.</span>
         <br />
-        I am a Full Stack Software engineer, my expertise include Web and Mobile development{' '}
+        I am a <span className={s.purple}>Full Stack Software engineer </span>, With 4+ years of experience my expertise include Web and Mobile development{' '}
         <br />
-        using React, Nextjs, Vue, React-Native and Nodejs.
+        using <span className={s.purple}>React, Nextjs, Vue, React-Native and Nodejs. </span>
         <br />
         <br />
         I have a Bachelor's degree in Economics and
@@ -19,7 +18,7 @@ const AboutTextCard = () => {
         Master's degree in Business Management.
         <br />
         <br />
-        I don't always code sometimes, i engage in other fun activities such as!
+        I don't always code sometimes, I engage in other fun activities such as!
       </p>
 
       <ul>
