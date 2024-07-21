@@ -18,7 +18,7 @@ const AboutTextCard = () => {
         Master's degree in Business Management.
         <br />
         <br />
-        I don't always code sometimes, I engage in other fun activities such as!
+        I don't always code sometimes, I engage in Other fun activities such as!
       </p>
 
       <ul>
