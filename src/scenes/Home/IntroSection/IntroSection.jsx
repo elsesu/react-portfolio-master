@@ -24,16 +24,16 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I am a React Developer with two years+ of
+              I am a Full Stack Software Engineer with four years+ of
               experience <br /> 
-              Creating Web apps with Reactjs as well as mobile apps for both Android and ios using React Native.
+              Creating Web apps with Reactjs, Vue and Nextjs all powered by nodejs backend as well as mobile apps for both Android and ios using React Native and firebase.
             </p>
 
             <p>
               My core skills include {' '}
               <i>
                 <b className={s.purple}>
-                  Javascript, React, React Native, Nodejs, Css,
+                  Javascript, React, Vue, NextJs React Native, Nodejs, Css,
                 </b>
               </i>
               <br />
